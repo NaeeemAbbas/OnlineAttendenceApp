@@ -76,7 +76,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               size: 80,
               color: Colors.blue,
             ),
-            // saas
+            
             SizedBox(height: 20),
             Text(
               'Attendance Tracker',
